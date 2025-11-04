@@ -34,7 +34,7 @@ def run():
         y += array[1]
         visited_houses.add((x, y))
 
-    print(f"Nombre de maison avec au moins un cadeau : {len(visited_houses)}")
+    print(f"Nombre de maisons avec au moins un cadeau : {len(visited_houses)}")
     visited_houses.clear()
 
     x_santa = 0
@@ -51,7 +51,7 @@ def run():
         y_robot += array[1]
         visited_houses.add((x_robot, y_robot))
 
-    print(f"Nombre de maison avec au moins un cadeau (distribué par Santa et son robot) : {len(visited_houses)}")
+    print(f"Nombre de maisons avec au moins un cadeau (distribué par Santa et son robot) : {len(visited_houses)}")
 
 
 if __name__ == '__main__':
