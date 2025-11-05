@@ -131,6 +131,7 @@ def run():
             node.add_parent(from_node2)
         else:
             raise Exception(f"Parse error {current_line}")
+    puzzle.close()
     print(f"Signal provided to wire {wire_name} is {dictionary[wire_name].value}")
     wire_name_to_override = 'b'
     dictionary[wire_name_to_override].value = dictionary[wire_name].value
