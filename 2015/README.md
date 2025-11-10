@@ -17,3 +17,4 @@ Pour l'année 2015, le challenge est de résoudre les énigmes proposées en [Py
 - [Jour 15: Science for Hungry People](https://adventofcode.com/2015/day/15)
 - [Jour 16: Aunt Sue](https://adventofcode.com/2015/day/16)
 - [Jour 17: No Such Thing as Too Much](https://adventofcode.com/2015/day/17)
+- [Jour 18: Like a GIF For Your Yard](https://adventofcode.com/2015/day/18)
